@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "c2c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "78b3c6c5-e8b6-4025-ac0e-96c8297a7c68",
+      "database_name": "c2c"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
